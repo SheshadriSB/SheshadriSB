@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello World, I'm Sheshadri.
+Student of Electronics, Communication & Information Engineering
+Wannabe geek and a Tech Enthusiast!
+
+
 
 <!--
 **SheshadriSB/SheshadriSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
