@@ -1,6 +1,6 @@
 Hello World, I'm Sheshadri.
 Student of Electronics, Communication & Information Engineering
-Wannabe geek and a Tech Enthusiast!
+Wannabe Geek and a Tech Enthusiast!
 
 
 
