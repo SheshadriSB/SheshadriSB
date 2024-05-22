@@ -1,5 +1,6 @@
 Hello World, I'm Sheshadri.
-Student of Electronics, Communication & Information Engineering
+Student of Electronics, Communication & Information Engineering.
+I code, sometimes. 
 
 
 
